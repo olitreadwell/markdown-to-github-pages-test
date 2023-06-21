@@ -1,5 +1,3 @@
-| Home | About | News | Join |
-|------|-------|------|------|
 | [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
 
 
@@ -35,16 +33,12 @@ The ACT Comms Team
 
 *Does your local civic tech organization have a story to tell? Want to be featured in our next newsletter? Reach out to us at [hello@civictechnologists.org](mailto:hello@civictechnologists.org)*
 
+
 ---
 
-| Home         | News        | Donate                              | Mailing List                        |
-|--------------|-------------|-------------------------------------|-------------------------------------|
+
 | [Home](README.md) | [News](news.md) | [Donate](https://opencollective.com/act-fund) | [Mailing List](https://eepurl.com/ithxXU) |
 
-| Code of Conduct                     | Discord                              | Email                                | LinkedIn                                           |
-|-------------------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------|
 | [Code of Conduct](code-of-conduct.md) | [Discord](https://discord.gg/RP6jXM43fY) | [Email](mailto:hello@civictechnologists.org) | [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists) |
 
-| Mastodon                                    | Twitter                                       |
-|---------------------------------------------|------------------------------------------------|
 | [Mastodon](https://mastodon.social/@allianceofcivictechnologists) | [Twitter](https://twitter.com/alliescivictech) |

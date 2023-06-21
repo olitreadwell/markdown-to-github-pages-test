@@ -1,7 +1,4 @@
-| Home | About | News | Join |
-|------|-------|------|------|
 | [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
-
 
 # Get Involved
 
@@ -21,14 +18,9 @@ There are several ways that you can get involved with the Alliance of Civic Tech
 
 ---
 
-| Home         | News        | Donate                              | Mailing List                        |
-|--------------|-------------|-------------------------------------|-------------------------------------|
+
 | [Home](README.md) | [News](news.md) | [Donate](https://opencollective.com/act-fund) | [Mailing List](https://eepurl.com/ithxXU) |
 
-| Code of Conduct                     | Discord                              | Email                                | LinkedIn                                           |
-|-------------------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------|
 | [Code of Conduct](code-of-conduct.md) | [Discord](https://discord.gg/RP6jXM43fY) | [Email](mailto:hello@civictechnologists.org) | [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists) |
 
-| Mastodon                                    | Twitter                                       |
-|---------------------------------------------|------------------------------------------------|
 | [Mastodon](https://mastodon.social/@allianceofcivictechnologists) | [Twitter](https://twitter.com/alliescivictech) |

@@ -1,7 +1,4 @@
-| Home | About | News | Join |
-|------|-------|------|------|
 | [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
-
 
 ![image](assets/images/alliance-of-civic-technologists-hero.png)
 
@@ -35,16 +32,12 @@ The Alliance of Civic Technology (ACT) is a newly formed organization that will 
 **Alliance of Civic Technologists**
 ACT is a decentralized network of civic tech volunteer organizations.
 
+
 ---
 
-| Home         | News        | Donate                              | Mailing List                        |
-|--------------|-------------|-------------------------------------|-------------------------------------|
+
 | [Home](README.md) | [News](news.md) | [Donate](https://opencollective.com/act-fund) | [Mailing List](https://eepurl.com/ithxXU) |
 
-| Code of Conduct                     | Discord                              | Email                                | LinkedIn                                           |
-|-------------------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------|
 | [Code of Conduct](code-of-conduct.md) | [Discord](https://discord.gg/RP6jXM43fY) | [Email](mailto:hello@civictechnologists.org) | [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists) |
 
-| Mastodon                                    | Twitter                                       |
-|---------------------------------------------|------------------------------------------------|
 | [Mastodon](https://mastodon.social/@allianceofcivictechnologists) | [Twitter](https://twitter.com/alliescivictech) |

@@ -1,5 +1,3 @@
-| Home | About | News | Join |
-|------|-------|------|------|
 | [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
 
 
@@ -16,16 +14,12 @@ We advocate for changes in, both, technology and policies that enable more effec
 Currently, ACT is speaking with civic technology leaders in 16 cities, with Seattle, Dayton, Boston, and Oakland already signing letters of intent to participate in the co-creation process. We will continue to recruit initial member organizations, with our first meeting in June. Leaders of local civic technology organizations interested in participating should reach out to ACT leadership via at hello(at)civictechnologists.org
 
 
+
 ---
 
-| Home         | News        | Donate                              | Mailing List                        |
-|--------------|-------------|-------------------------------------|-------------------------------------|
+
 | [Home](README.md) | [News](news.md) | [Donate](https://opencollective.com/act-fund) | [Mailing List](https://eepurl.com/ithxXU) |
 
-| Code of Conduct                     | Discord                              | Email                                | LinkedIn                                           |
-|-------------------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------|
 | [Code of Conduct](code-of-conduct.md) | [Discord](https://discord.gg/RP6jXM43fY) | [Email](mailto:hello@civictechnologists.org) | [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists) |
 
-| Mastodon                                    | Twitter                                       |
-|---------------------------------------------|------------------------------------------------|
 | [Mastodon](https://mastodon.social/@allianceofcivictechnologists) | [Twitter](https://twitter.com/alliescivictech) |
