@@ -1,66 +1,39 @@
-<nav class="navbar bg-body-tertiary mb-3">
-  <div class="container container justify-content-center justify-content-sm-between">
-    <a class="navbar-brand h2 text-primary mb-0" href="/">
-      <img src="/assets/images/icon.png" alt="" width="30" height="30" class="d-inline-block align-text-bottom">
-      Alliance of Civic Technologists
-    </a>
-    <ul class="navbar-nav flex-row align-items-center">
-      <li class="nav-item mx-2">
-        <a class="nav-link" aria-current="page" href="/">Home</a>
-      </li>
-      <li class="nav-item mx-2">
-        <a class="nav-link" aria-current="page" href="/about">About</a>
-      </li>
-      <li class="nav-item mx-2">
-        <a class="nav-link" aria-current="page" href="/news">News</a>
-      </li>
-      <li class="nav-item mx-2">
-        <a class="nav-link" aria-current="page" href="/join">Join</a>
-      </li>
-      <li class="nav-item mx-2">
-        <a class="btn btn-secondary btn-sm " aria-current="page" href="https://opencollective.com/act-fund">Donate</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+# Welcome to Community Connect
 
-![Alliance of Civic Technologists](/assets/images/logo.png)
-# Alliance of Civic Technologists
+## About Us
+Community Connect is a non-profit organization dedicated to fostering a strong and vibrant community. We believe that by bringing people together and providing opportunities for engagement, we can create a better and more connected society. Our mission is to facilitate collaboration, support local initiatives, and empower individuals to make a positive impact.
 
-## We are thrilled to announce the formation of the Alliance of Civic Technologists (ACT).
+## What We Do
+At Community Connect, we offer a range of programs and services to bring the community together:
 
-**🎉 Latest Update (June 13, 2023)**: [ACT June Newsletter](/news)
+### Community Events
+We organize regular community events where people can come together, have fun, and build connections. From festivals and concerts to workshops and seminars, there's something for everyone.
 
-The Alliance of Civic Technology (ACT) is a newly formed organization that will connect volunteer civic technology efforts, in both technology and advocacy, in their local communities. Our initial goal is to ensure the continuity and growth of civic technology volunteer communities across the United States, launching immediately to fill the gap left by the sunsetting of Code for America’s Brigade program. [Learn more about ACT](/about).
+### Volunteer Opportunities
+We provide volunteer opportunities to those who want to give back to the community. Whether you're passionate about the environment, education, or social welfare, we have a wide range of projects where you can make a difference.
 
-### Join our mailing list!
+### Skill Building Workshops
+Our skill building workshops aim to empower individuals with knowledge and expertise. We offer various workshops on topics such as leadership, communication, and personal development. These workshops are designed to enhance skills that can benefit both personal and professional lives.
 
-To stay in touch and/or join our efforts, sign up for our [mailing list](https://eepurl.com/ithxXU).
+### Community Resources
+We compile a comprehensive list of community resources, including local organizations, support services, and helpful guides. This directory serves as a valuable reference for community members seeking assistance or looking to connect with like-minded individuals.
 
-### Donate today!
+## Get Involved
+Are you interested in getting involved with Community Connect? Here's how you can participate:
 
-To support our efforts financially, donations can be made on our [Open Collective](https://opencollective.com/act-fund).
+1. **Volunteer**: Join our team of dedicated volunteers and contribute your time and skills to meaningful projects.
 
----
+2. **Attend Events**: Check our event calendar and join us for upcoming community events. Bring your friends and family along too!
 
-**Member Organizations**
+3. **Donate**: Your generous donations help us sustain our programs and expand our reach. Every contribution makes a difference.
 
-(TODO: Add member organizations)
+4. **Spread the Word**: Help us grow our community by spreading the word about Community Connect. Share our website, events, and initiatives with your networks.
 
----
+## Contact Us
+We would love to hear from you! If you have any questions, suggestions, or want to collaborate, please get in touch using one of the following methods:
 
-Alliance of Civic Technologists  
-ACT is a decentralized network of civic tech volunteer organizations.
+- **Email**: info@communityconnect.org
+- **Phone**: +1-555-123-4567
+- **Address**: 123 Main Street, Anytown, USA
 
-[![ACT Icon](/assets/images/icon.png)](/)
-
-- [Home](/)
-- [News](/news)
-- [Donate](https://opencollective.com/act-fund)
-- [Mailing List](https://eepurl.com/ithxXU)
-- [Code of Conduct](/code-of-conduct)
-- [Discord](https://discord.gg/RP6jXM43fY)
-- [Email](mailto:hello@civictechnologists.org)
-- [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists)
-- [Mastodon](https://mastodon.social/@allianceofcivictechnologists)
-- [Twitter](https://twitter.com/alliescivictech)
+Join us in building a stronger, more connected community today!
