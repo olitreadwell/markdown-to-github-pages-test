@@ -1,4 +1,9 @@
-![image](https://github.com/olitreadwell/markdown-to-github-pages-test/assets/3107864/08bcc03f-e95b-41eb-b54b-ff9e02987a82)
+| Home | About | News | Join |
+|------|-------|------|------|
+| [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
+
+
+![image](assets/images/alliance-of-civic-technologists-hero.png)
 
 # Alliance of Civic Technologists
 
@@ -32,13 +37,14 @@ ACT is a decentralized network of civic tech volunteer organizations.
 
 ---
 
-- [Home](README.md)
-- [News](news.md)
-- [Donate](https://opencollective.com/act-fund)
-- [Mailing List](https://eepurl.com/ithxXU)
-- [Code of Conduct](code-of-conduct.md)
-- [Discord](https://discord.gg/RP6jXM43fY)
-- [Email](mailto:hello@civictechnologists.org)
-- [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists)
-- [Mastodon](https://mastodon.social/@allianceofcivictechnologists)
-- [Twitter](https://twitter.com/alliescivictech)
+| Home         | News        | Donate                              | Mailing List                        |
+|--------------|-------------|-------------------------------------|-------------------------------------|
+| [Home](README.md) | [News](news.md) | [Donate](https://opencollective.com/act-fund) | [Mailing List](https://eepurl.com/ithxXU) |
+
+| Code of Conduct                     | Discord                              | Email                                | LinkedIn                                           |
+|-------------------------------------|--------------------------------------|--------------------------------------|----------------------------------------------------|
+| [Code of Conduct](code-of-conduct.md) | [Discord](https://discord.gg/RP6jXM43fY) | [Email](mailto:hello@civictechnologists.org) | [LinkedIn](https://www.linkedin.com/company/alliance-of-civic-technologists) |
+
+| Mastodon                                    | Twitter                                       |
+|---------------------------------------------|------------------------------------------------|
+| [Mastodon](https://mastodon.social/@allianceofcivictechnologists) | [Twitter](https://twitter.com/alliescivictech) |

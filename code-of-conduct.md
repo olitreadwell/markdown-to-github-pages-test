@@ -1,3 +1,8 @@
+| Home | About | News | Join |
+|------|-------|------|------|
+| [Home](README.md) | [About](about.md) | [News](news.md) | [Join](join.md) |
+
+
 # Code of Conduct for the Alliance of Civic Technologists
 
 This Code of Conduct is an interim document while the organization is being stood up and is subject to change. This document currently covers the Alliance of Civic Technologists (ACT) Discord instance and is enforced exclusively by the administrators.
